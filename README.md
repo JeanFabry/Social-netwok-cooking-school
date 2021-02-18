@@ -41,7 +41,7 @@ We used a [Trello](https://trello.com/b/wizIgsmq/my-bocuse) to keep each other i
 [![overview](./assets/img/overview1.png)](http://mybocuz.rf.gd/)
 Feel free to check it out using the following credentials : <br/>
 CHEF : emily_chef@mybocus.org Password: Emily2021 <br/>
-STUDENT : axel_nalesso@mybocus.org Password : Axel2021 
+STUDENT : florian_bertchi@mybocus.org Password : Florian2021
 
 ## Improve
 * Block check-in and check-out
@@ -55,7 +55,7 @@ Click here to access at
 [MyBocuz](http://mybocuz.rf.gd/)
 Feel free to check it out using the following credentials : <br/>
 CHEF : emily_chef@mybocus.org Password: Emily2021 <br/>
-STUDENT : axel_nalesso@mybocus.org Password : Axel2021 
+STUDENT : florian_bertchi@mybocus.org Password : Florian2021
 <br/>
 <hr><hr>
 DISCLAIMER - fair use, this exercice is for educational purpose only.
