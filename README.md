@@ -38,7 +38,10 @@ We used a [Trello](https://trello.com/b/wizIgsmq/my-bocuse) to keep each other i
 *  [Instructions](https://github.com/becodeorg/bxl-hopper-1-25/tree/master/The%20Mountain/12.PHP/0.Projects/3.mybocuse)
     
 ## Overview 
-![overview](./assets/img/overview1.png)
+[![overview](./assets/img/overview1.png)](http://mybocuz.rf.gd/)
+Feel free to check it out using the following credentials : 
+CHEF : emily_chef@mybocus.org Password: Emily2021
+STUDENT : axel_nalesso@mybocus.org Password : Axel2021
 
 ## Improve
 * Block check-in and check-out
@@ -47,9 +50,12 @@ We used a [Trello](https://trello.com/b/wizIgsmq/my-bocuse) to keep each other i
 * ... 
 
 ## Website HOST
-We use Planet Hoster <br/>
+We use Infinity Free <br/>
 Click here to access at 
-[MyBocus](https://joelle-login-page.go.yo.fr/index.php)
+[MyBocuz](http://mybocuz.rf.gd/)
+Feel free to check it out using the following credentials : 
+CHEF : emily_chef@mybocus.org Password: Emily2021
+STUDENT : axel_nalesso@mybocus.org Password : Axel2021
 <br/>
 <hr><hr>
 DISCLAIMER - fair use, this exercice is for educational purpose only.
